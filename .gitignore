@@ -1,0 +1,14 @@
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+
+
+# Ignore bundle
+bundle.js
+bundle.js.map
+bundle.js*
+.byebug_history

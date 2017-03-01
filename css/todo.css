@@ -1,0 +1,26 @@
+.to-do-container {
+  font-family: helvetica;
+  padding-top: 20px;
+  border-right: 1px solid;
+  border-left: 1px solid;
+  margin: 0 400px;
+  height: 100vh;
+  background-color: aliceblue;
+}
+
+.todo-input-container {
+  padding-top: 20px;
+}
+
+.add-todo-button-container {
+  padding-top: 20px;
+}
+
+.add-todo {
+  padding: 10px;
+  background-color: firebrick;
+  color: white;
+  font-weight: bold;
+  border-style: none;
+  font-size: 20px;
+}
