@@ -1,7 +1,7 @@
 #toDOM
 
 [To Dom Demo][link]
-[link]:  https://github.com/willbetts/toDom
+[link]:  willbetts.tech/toDOM
 
 #Background
 
