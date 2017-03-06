@@ -1,7 +1,6 @@
 #toDOM
 
-[To Dom Demo][link]
-[link]:  willbetts.tech/toDOM
+[To Dom Demo](willbetts.tech/toDOM)
 
 #Background
 
