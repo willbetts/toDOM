@@ -5,7 +5,7 @@
 
 #Background
 
-toDom is a fast and small Javascript library inspired by jQuery.  toDom simplifies
+toDom is a fast and small JavaScript library inspired by jQuery.  toDom simplifies
 HTML document transversal, DOM manipulation, event handling, and AJAX requests in
 JavaScript.  
 
