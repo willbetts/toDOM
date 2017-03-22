@@ -1,17 +1,16 @@
-#toDOM
+# toDOM
 
-[to Dom Demo][To Dom Demo]
-[To Dom Demo]:https://willbetts.tech/toDOM
+https://willbetts.tech/toDOM
 
-#Background
+## Background
 
 toDom is a fast and small JavaScript library inspired by jQuery.  toDom simplifies
 HTML document transversal, DOM manipulation, event handling, and AJAX requests in
 JavaScript.  
 
-#Guidelines
+## Guidelines
 
-##Installation
+## Installation
 
 To use toDom, start by downloading toDom and include it in your project directory.  
 Then, include the following script tag in the 'head' section of your HTML document:
@@ -26,7 +25,7 @@ You can also include the following line at the top of every file that uses toDom
   const $l = require('./../lib/to_dom.js');
 ```
 
-##Examples
+## Examples
 
 With jUtility, you can perform some basic DOM manipulation functions:
 
