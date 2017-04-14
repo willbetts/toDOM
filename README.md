@@ -24,10 +24,11 @@ You can also include the following line at the top of every file that uses toDom
 ``` javascript
   const $l = require('./../lib/to_dom.js');
 ```
-
+if you do it this way, you will need to also use webpack. Here are directions for getting started with webpack:
+http://webpack.github.io/docs/tutorials/getting-started/
 ## Examples
 
-With jUtility, you can perform some basic DOM manipulation functions:
+With toDOM, you can perform some basic DOM manipulation functions:
 
 You can select specific HTML elements or selectors:
 
